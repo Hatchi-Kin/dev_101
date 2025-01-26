@@ -27,4 +27,4 @@
 
 
 
-# 6. add, commit et push vos modifications sur le dépôt distant puis switcher sur la branche 'notebook'
+# 6. add, commit et push vos modifications sur le dépôt distant puis switcher sur la branche '03_notebook'
