@@ -1,4 +1,4 @@
-from .utils import validate_and_execute_query
+from .validator import validate_and_execute_query
 
 
 def get_all_books(query):
