@@ -25,5 +25,5 @@ Prérequis :
 Mais votre repo local contient aussi le cheat sheet que vous avez ajouté. 
 Il faut donc `ajouter`, `commiter` et `pusher` les modifications depuis votre repo local vers le repo distant.
 
-6. Pour passer à l'exercice suivant, Vous devez checkout sur la branche `01_script_python` 
+6. Pour passer à l'exercice suivant, Vous devez checkout sur la branche `02_script_python` 
 et pull les différences entre le repo distant et le repo local.
