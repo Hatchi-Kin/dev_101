@@ -1,7 +1,6 @@
 from sqlite3 import Error
 
 from .db_connector import SQLiteConnector
-from .validator import validate_and_execute_query
 
 
 def get_tables_in_db():
